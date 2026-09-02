@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "product_id": "com.lca.desktop",
+  "channel": "stable",
+  "version": "1.10.1",
+  "package_url": "https://github.com/dm0203MJ-ALT/lca-updates/releases/download/v1.10.1/LCA-1.10.1-x64.lcaupdate",
+  "sha256": "ccfb58222b583388cca1ee7071b6c1b039325470e61332d322966ab1efc0debd",
+  "bytes": 293348630,
+  "published_at": "2026-09-02T02:48:58.5723551+00:00"
+}
