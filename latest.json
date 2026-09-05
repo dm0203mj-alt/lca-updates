@@ -2,9 +2,9 @@
   "schema_version": 1,
   "product_id": "com.lca.desktop",
   "channel": "stable",
-  "version": "2.0.0",
-  "package_url": "https://github.com/dm0203MJ-ALT/lca-updates/releases/download/v1.2.0/LCA-1.2.0-x64.lcaupdate",
-  "sha256": "dd178f998a01281a274f9aa994c555339685d0b283a8bf0ffd51d472b048ef85",
-  "bytes": 299213381,
-  "published_at": "2026-09-04T10:23:20.9086557+00:00"
+  "version": "2.0.1",
+  "package_url": "https://github.com/dm0203MJ-ALT/lca-updates/releases/download/v1.2.1/LCA-1.2.1-x64.lcaupdate",
+  "sha256": "dc47445faf51181244705009beb75fbd24815ea06723fdf92d77b07e227918ae",
+  "bytes": 299304433,
+  "published_at": "2026-09-05T03:11:19.4275468Z"
 }
